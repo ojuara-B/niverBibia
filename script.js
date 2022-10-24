@@ -37,6 +37,18 @@ let data = [
         background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
     },
         
+    {
+        image: "assets/images/bia04.png",
+        title: "Dança da Imitação",
+        artist: "Caninípolis",
+        file: "assets/Musicas/DANÇA DA IMITAÇÃO.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
+
+
+
+
+
 ]
 
 localStorage.setItem("newData", JSON.stringify(data))
