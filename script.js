@@ -36,7 +36,8 @@ let data = [
         file: "assets/Musicas/Dirigindo.mp3",
         background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
     },
-        
+       
+    
     {
         image: "assets/images/bia04.png",
         title: "Dança da Imitação",
@@ -45,10 +46,109 @@ let data = [
         background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
     },
 
+    {
+        image: "assets/images/bia05.png",
+        title: "Pirulo que bate bate",
+        artist: "Baby Roger",
+        file: "assets/Musicas/Pirulobate.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
 
+    {
+        image: "assets/images/bia06.png",
+        title: "Dança Bolofofos",
+        artist: "Bolofofos",
+        file: "assets/Musicas/dancabolofos.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
 
+    {
+        image: "assets/images/bia07.png",
+        title: "Dança Maluca",
+        artist: "Bolofofos",
+        file: "assets/Musicas/dancamaluca.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
 
+    {
+        image: "assets/images/bia08.png",
+        title: "Abacaxi Flamingo",
+        artist: "Bolofofos",
+        file: "assets/Musicas/abacaxiflamingo.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
 
+    {
+        image: "assets/images/bia09.png",
+        title: "Parabéns da Galinha",
+        artist: "Galinha Pintadinha",
+        file: "assets/Musicas/parabensgalinha.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
+
+    {
+        image: "assets/images/bia10.png",
+        title: "Parabéns 3 Palavrinhas",
+        artist: "3palavrinhas",
+        file: "assets/Musicas/parabens3palavrinhas.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
+
+    {
+        image: "assets/images/bia01.png",
+        title: "Parabéns do Bita",
+        artist: "Mundo Bita",
+        file: "assets/Musicas/parabensbita.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
+
+    {
+        image: "assets/images/bia02.png",
+        title: "Dança da Imitação",
+        artist: "Caninópolis",
+        file: "assets/Musicas/dancadaimitacao.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
+
+    {
+        image: "assets/images/bia03.png",
+        title: "Trem da alegria",
+        artist: "Caninópolis",
+        file: "assets/Musicas/tremdaalegria.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
+
+    {
+        image: "assets/images/bia04.png",
+        title: "Mostro uma Mãozinha",
+        artist: "Um herói do Coração",
+        file: "assets/Musicas/mostroumamao.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
+
+    {
+        image: "assets/images/bia05.png",
+        title: "Tindolelê",
+        artist: "Patati Patata",
+        file: "assets/Musicas/tindolele.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
+
+    {
+        image: "assets/images/bia06.png",
+        title: "Ciranda das Águas",
+        artist: "Mundo Bita",
+        file: "assets/Musicas/cirandadasaguas.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
+
+    {
+        image: "assets/images/bia07.png",
+        title: "Chuá Tibum",
+        artist: "Mundo Bita",
+        file: "assets/Musicas/chuatibum.mp3",
+        background: "linear-gradient(35deg, #ffc0cb 10%, #ffcbdb 35%, #ff69b4 100%)" 
+    },
 ]
 
 localStorage.setItem("newData", JSON.stringify(data))
